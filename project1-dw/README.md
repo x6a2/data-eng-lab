@@ -1,5 +1,8 @@
 # 项目 1：电商用户行为离线数仓（ODS → DWD → DWS → ADS）
 
+> 仓库地址：https://github.com/x6a2/data-eng-lab
+> 全部脚本可复现：建表 → 造数 → 清洗 → 指标 → EXPLAIN 优化，按天提交。
+
 目标：从 0 做一条能讲清楚的离线数仓链路，最终产出 4 个业务指标。
 技术栈（先用最朴素的，跑通了再加）：MySQL 8.0 + Python 3 + Pandas + Git。
 
