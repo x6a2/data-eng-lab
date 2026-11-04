@@ -27,3 +27,6 @@ Thumbs.db
 *.xlsx
 *.csv
 !docs/sample/*.csv
+
+# pip 安装失败的临时目录
+pip-*/
